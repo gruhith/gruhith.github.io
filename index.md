@@ -18,5 +18,5 @@ Mohammed J. Zaki and Wagner Meira Jr
 Cambridge University  
 
 ### Link to Book:
-https://repo.palkeo.com/algo/informationretrieval/Data%20mining%20and%20analysis.pdf
+[Book](https://repo.palkeo.com/algo/informationretrieval/Data%20mining%20and%20analysis.pdf)
 
