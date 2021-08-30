@@ -15,4 +15,4 @@ This book introduces us to the basics of data mining, analysis and then proceeds
 Mohammed J. Zaki and Wagner Meira Jr
 
 ### Publisher/Institute:
-Cambridge University Press 
+Cambridge University  
