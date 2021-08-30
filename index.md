@@ -4,7 +4,8 @@ This dataset includes several months of data on daily trending YouTube videos fr
 ### Potential applications:
 Can be used for sentiment analysis,Analyse what factors makes a video popular etc
 
-### Link: [Youtube Dataset](https://www.kaggle.com/datasnaek/youtube-new)
+### Link: 
+[Youtube Dataset](https://www.kaggle.com/datasnaek/youtube-new)
 
 # Book:
 ### Data Mining and Analysis: Fundamental Concepts and Algorithms:
